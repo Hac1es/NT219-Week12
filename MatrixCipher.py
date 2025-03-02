@@ -24,11 +24,10 @@ def generate_valid_matrix(n):
         if is_invertible(matrix):
             return matrix
 
-def inverse_matrix(matrix):
+def inverse_matrix(matrix, n):
     """
     Compute the modular inverse of an n x n matrix
     """
-    n = matrix.shape[0]
     
     # Calcuate the modulo 28 determinant
     det = int(round(np.linalg.det(matrix))) % mod
@@ -89,7 +88,7 @@ def decrypt(encrypted_text, inverseMatrix, n):
         decrypted_block = np.dot(inverseMatrix, block) % mod
         result.extend(decrypted_block.flatten())
 
-    return ''.join(alphabet[num] for num in result)
+    return ''.join(alphabet[num] for num in result).replace('_', '')
 
 def print_matrix(matrix, title="Matrix"):
     """
@@ -126,7 +125,7 @@ def main():
             print(f"Generating a valid {n}x{n} encryption matrix...")
             cipherMatrix = generate_valid_matrix(n)
             
-        inverseMatrix = inverse_matrix(cipherMatrix)
+        inverseMatrix = inverse_matrix(cipherMatrix, n)
     except ValueError:
         print("Invalid input. Please enter integers for the matrix.")
         return
