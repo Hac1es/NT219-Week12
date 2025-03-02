@@ -1,0 +1,119 @@
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  H  L  P  I  R  F  I  K  E  T  B  A  D  A  T  U  V  W  U  G  H 
+
+Decrypted Text:
+phadeas figg was hit khiwh ti haye eather wafe ir uhadcreh, whauh lav happeh ti the list hihest peipde; eather redatayes ir hear fraehcs, whauh as uertaahdv lire mhmsmad. he dayec adihe ah has himse ah sayadde riw, whather hihe pehetratec. a sahgde cilestau smffauec ti serye hal. he breakfastec ahc cahec at the udmb, at himrs lathelatauaddv fajec, ah the sale riil, at the sale tabde, heyer takahg has leads wath ither lelbers, lmuh dess brahgahg a gmest wath hal; ahc weht hile at ejautdv lachaght, ihdv ti retare at ihue ti bec. he heyer msec the uisv uhalbers whauh the refirl priyaces fir ats fayimrec lelbers. he passec teh himrs imt if the twehtv-fimr ah sayadde riw, eather ah sdeepahg ir lakahg has tiadet. 
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  N  L  P  I  R  F  I  K  E  T  B  A  D  A  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phadeas figg was nit kniwn ti haye eather wafe ir uhadcren, whauh lay happen ti the list hinest peipde; eather redatayes ir near fraencs, whauh as uertaandy lire mnmsmad. he dayec adine an has himse an sayadde riw, whather nine penetratec. a sangde cilestau smffauec ti serye hal. he breakfastec anc canec at the udmb, at himrs lathelatauaddy fajec, an the sale riil, at the sale tabde, neyer takang has leads wath ither lelbers, lmuh dess brangang a gmest wath hal; anc went hile at ejautdy lacnaght, indy ti retare at inue ti bec. he neyer msec the uisy uhalbers whauh the refirl priyaces fir ats fayimrec lelbers. he passec ten himrs imt if the twenty-fimr an sayadde riw, eather an sdeepang ir lakang has tiadet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  N  L  P  I  L  F  I  K  E  T  B  A  D  A  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phadeas figg was nit kniwn ti haye eathel wafe il uhadclen, whauh lay happen ti the list hinest peipde; eathel ledatayes il neal flaencs, whauh as ueltaandy lile mnmsmad. he dayec adine an has himse an sayadde liw, whathel nine penetlatec. a sangde cilestau smffauec ti selye hal. he bleakfastec anc canec at the udmb, at himls lathelatauaddy fajec, an the sale liil, at the sale tabde, neyel takang has leads wath ithel lelbels, lmuh dess blangang a gmest wath hal; anc went hile at ejautdy lacnaght, indy ti letale at inue ti bec. he neyel msec the uisy uhalbels whauh the lefill pliyaces fil ats fayimlec lelbels. he passec ten himls imt if the twenty-fiml an sayadde liw, eathel an sdeepang il lakang has tiadet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  N  L  P  I  R  F  I  K  E  T  B  A  L  A  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phaleas figg was nit kniwn ti haye eather wafe ir uhalcren, whauh lay happen ti the list hinest peiple; eather relatayes ir near fraencs, whauh as uertaanly lire mnmsmal. he layec aline an has himse an sayalle riw, whather nine penetratec. a sangle cilestau smffauec ti serye hal. he breakfastec anc canec at the ulmb, at himrs lathelataually fajec, an the sale riil, at the sale table, neyer takang has leals wath ither lelbers, lmuh less brangang a gmest wath hal; anc went hile at ejautly lacnaght, inly ti retare at inue ti bec. he neyer msec the uisy uhalbers whauh the refirl priyaces fir ats fayimrec lelbers. he passec ten himrs imt if the twenty-fimr an sayalle riw, eather an sleepang ir lakang has tialet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  N  L  P  I  R  F  I  K  E  T  B  A  L  I  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phileas figg was nit kniwn ti haye either wife ir uhilcren, whiuh lay happen ti the list hinest peiple; either relatiyes ir near friencs, whiuh is uertainly lire mnmsmal. he liyec aline in his himse in sayille riw, whither nine penetratec. a single cilestiu smffiuec ti serye hil. he breakfastec anc cinec at the ulmb, at himrs lathelatiually fijec, in the sale riil, at the sale table, neyer taking his leals with ither lelbers, lmuh less bringing a gmest with hil; anc went hile at ejautly licnight, inly ti retire at inue ti bec. he neyer msec the uisy uhalbers whiuh the refirl priyices fir its fayimrec lelbers. he passec ten himrs imt if the twenty-fimr in sayille riw, either in sleeping ir laking his tiilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  N  L  P  O  R  F  I  K  E  T  B  A  L  I  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phileas figg was nit kniwn ti haye either wife ir uhilcren, whiuh lay happen ti the list hinest peiple; either relatiyes ir near friencs, whiuh is uertainly lire mnmsmal. he liyec aline in his himse in sayille riw, whither nine penetratec. a single cilestiu smffiuec ti serye hil. he breakfastec anc cinec at the ulmb, at himrs lathelatiually fijec, in the sale riil, at the sale table, neyer taking his leals with ither lelbers, lmuh less bringing a gmest with hil; anc went hile at ejautly licnight, inly ti retire at inue ti bec. he neyer msec the uisy uhalbers whiuh the refirl priyices fir its fayimrec lelbers. he passec ten himrs imt if the twenty-fimr in sayille riw, either in sleeping ir laking his tiilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  Y  M  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phileas fogg was not known to haye either wife or uhilcren, whiuh lay happen to the lost honest people; either relatiyes or near friencs, whiuh is uertainly lore mnmsmal. he liyec alone in his homse in sayille row, whither none penetratec. a single colestiu smffiuec to serye hil. he breakfastec anc cinec at the ulmb, at homrs lathelatiually fijec, in the sale rool, at the sale table, neyer taking his leals with other lelbers, lmuh less bringing a gmest with hil; anc went hole at ejautly licnight, only to retire at onue to bec. he neyer msec the uosy uhalbers whiuh the reforl proyices for its fayomrec lelbers. he passec ten homrs omt of the twenty-fomr in sayille row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  V  M  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  U  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or uhilcren, whiuh lay happen to the lost honest people; either relatives or near friencs, whiuh is uertainly lore mnmsmal. he livec alone in his homse in saville row, whither none penetratec. a single colestiu smffiuec to serve hil. he breakfastec anc cinec at the ulmb, at homrs lathelatiually fijec, in the sale rool, at the sale table, never taking his leals with other lelbers, lmuh less bringing a gmest with hil; anc went hole at ejautly licnight, only to retire at onue to bec. he never msec the uosy uhalbers whiuh the reforl provices for its favomrec lelbers. he passec ten homrs omt of the twenty-fomr in saville row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  V  M  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  C  Y  W  U  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or uhilcren, whiuh lay happen to the lost honest people; either relatives or near friencs, whiuh is uertainly lore mnmsmal. he livec alone in his homse in saville row, whither none penetratec. a single colestiu smffiuec to serve hil. he breakfastec anc cinec at the ulmb, at homrs lathelatiually fijec, in the sale rool, at the sale table, never taking his leals with other lelbers, lmuh less bringing a gmest with hil; anc went hole at ejautly licnight, only to retire at onue to bec. he never msec the uosy uhalbers whiuh the reforl provices for its favomrec lelbers. he passec ten homrs omt of the twenty-fomr in saville row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  C  S  V  M  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or chilcren, which lay happen to the lost honest people; either relatives or near friencs, which is certainly lore mnmsmal. he livec alone in his homse in saville row, whither none penetratec. a single colestic smfficec to serve hil. he breakfastec anc cinec at the clmb, at homrs lathelatically fijec, in the sale rool, at the sale table, never taking his leals with other lelbers, lmch less bringing a gmest with hil; anc went hole at ejactly licnight, only to retire at once to bec. he never msec the cosy chalbers which the reforl provices for its favomrec lelbers. he passec ten homrs omt of the twenty-fomr in saville row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  D  S  V  M  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or children, which lay happen to the lost honest people; either relatives or near friends, which is certainly lore mnmsmal. he lived alone in his homse in saville row, whither none penetrated. a single dolestic smfficed to serve hil. he breakfasted and dined at the clmb, at homrs lathelatically fijed, in the sale rool, at the sale table, never taking his leals with other lelbers, lmch less bringing a gmest with hil; and went hole at ejactly lidnight, only to retire at once to bed. he never msed the cosy chalbers which the reforl provides for its favomred lelbers. he passed ten homrs omt of the twenty-fomr in saville row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  D  S  V  U  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or children, which lay happen to the lost honest people; either relatives or near friends, which is certainly lore unusual. he lived alone in his house in saville row, whither none penetrated. a single dolestic sufficed to serve hil. he breakfasted and dined at the club, at hours lathelatically fijed, in the sale rool, at the sale table, never taking his leals with other lelbers, luch less bringing a guest with hil; and went hole at ejactly lidnight, only to retire at once to bed. he never used the cosy chalbers which the reforl provides for its favoured lelbers. he passed ten hours out of the twenty-four in saville row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+J  D  S  V  U  N  L  P  I  R  F  O  K  E  T  B  A  L  E  T  U  Y  W  C  G  H 
+
+Decrypted Text:
+pheleas fogg was not known to have eether wefe or cheldren, whech lay happen to the lost honest people; eether relateves or near freends, whech es certaenly lore unusual. he leved alone en hes house en savelle row, whether none penetrated. a sengle dolestec suffeced to serve hel. he breakfasted and dened at the club, at hours lathelatecally fejed, en the sale rool, at the sale table, never takeng hes leals weth other lelbers, luch less brengeng a guest weth hel; and went hole at ejactly ledneght, only to retere at once to bed. he never used the cosy chalbers whech the reforl provedes for ets favoured lelbers. he passed ten hours out of the twenty-four en savelle row, eether en sleepeng or lakeng hes toelet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  D  S  V  U  N  L  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or children, which lay happen to the lost honest people; either relatives or near friends, which is certainly lore unusual. he lived alone in his house in saville row, whither none penetrated. a single dolestic sufficed to serve hil. he breakfasted and dined at the club, at hours lathelatically fijed, in the sale rool, at the sale table, never taking his leals with other lelbers, luch less bringing a guest with hil; and went hole at ejactly lidnight, only to retire at once to bed. he never used the cosy chalbers which the reforl provides for its favoured lelbers. he passed ten hours out of the twenty-four in saville row, either in sleeping or laking his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+J  D  S  V  U  N  M  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or children, which may happen to the most honest people; either relatives or near friends, which is certainly more unusual. he lived alone in his house in saville row, whither none penetrated. a single domestic sufficed to serve him. he breakfasted and dined at the club, at hours mathematically fijed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at ejactly midnight, only to retire at once to bed. he never used the cosy chambers which the reform provides for its favoured members. he passed ten hours out of the twenty-four in saville row, either in sleeping or making his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+X  D  S  V  U  N  M  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or children, which may happen to the most honest people; either relatives or near friends, which is certainly more unusual. he lived alone in his house in saville row, whither none penetrated. a single domestic sufficed to serve him. he breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. he never used the cosy chambers which the reform provides for its favoured members. he passed ten hours out of the twenty-four in saville row, either in sleeping or making his toilet.
+PS D:\Data\Code\NT219 - Mật mã học\Mật mã cổ điển> & "D:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/classicCypher/Scripts/python.exe" "d:/Data/Code/NT219 - Mật mã học/Mật mã cổ điển/HackSubstitutionCipher.py"
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z 
+ --+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+-- 
+X  D  S  V  U  N  M  P  I  R  F  O  K  E  T  B  A  L  I  T  U  Y  W  C  G  H
+
+Decrypted Text:
+phileas fogg was not known to have either wife or children, which may happen to the most honest people; either relatives or near friends, which is certainly more unusual. he lived alone in his house in saville row, whither none penetrated. a single domestic sufficed to serve him. he breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. he never used the cosy chambers which the reform provides for its favoured members. he passed ten hours out of the twenty-four in saville row, either in sleeping or making his toilet.
