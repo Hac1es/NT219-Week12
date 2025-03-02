@@ -24,7 +24,18 @@ for letter in string.ascii_uppercase:
 
 # Optional manual adjustments to improve decryption quality
 mapping["Z"] = "H"
-
+mapping["Q"] = "A"
+mapping["F"] = "N"
+mapping["V"] = "Y"
+mapping["R"] = "L"
+mapping["S"] = "I"
+mapping["L"] = "O"
+mapping["D"] = "V"
+mapping["X"] = "C"
+mapping["B"] = "D"
+mapping["E"] = "U"
+mapping["G"] = "M"
+mapping["A"] = "X"
 
 def print_key_mapping_table(mapping):
     """
